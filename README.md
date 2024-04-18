@@ -57,7 +57,7 @@
 
 - 논문 성과
   1. Single-Anchor UWB 측위 알고리즘 - 2023년도 한국통신학회 하계종합학술발표회
-  2. AoA 기법을 이용한 단일 앵커 기반 UWB 측위 기술 - 2023년도 대한전자공학회 추계학술대회 논문집(https://github.com/havingforlunch/-Research-results/blob/main/AoA%20%EA%B8%B0%EB%B2%95%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EB%8B%A8%EC%9D%BC%20%EC%95%B5%EC%BB%A4%20%EA%B8%B0%EB%B0%98%20UWB%20%EC%B8%A1%EC%9C%84%20%EA%B8%B0%EC%88%A0.pdf)
+  2. [AoA 기법을 이용한 단일 앵커 기반 UWB 측위 기술 - 2023년도 대한전자공학회 추계학술대회 논문집](https://github.com/havingforlunch/-Research-results/blob/main/AoA%20%EA%B8%B0%EB%B2%95%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EB%8B%A8%EC%9D%BC%20%EC%95%B5%EC%BB%A4%20%EA%B8%B0%EB%B0%98%20UWB%20%EC%B8%A1%EC%9C%84%20%EA%B8%B0%EC%88%A0.pdf)
   3. IMU-Free UWB 기반 단일 앵커 측위 시스템 - 2024년도 vol 49. 4호 한국통신학회 논문지
   4. 단일 앵커 기반 UWB 실내 측위 알고리즘 설계 및 구현 - 석사학위 논문
      
